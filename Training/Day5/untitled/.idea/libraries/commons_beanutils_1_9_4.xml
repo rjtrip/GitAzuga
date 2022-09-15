@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1) 2/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1) 2/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1) 2/commons-collections4-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1) 2/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1) 2/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1) 2/commons-text-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1) 2/opencsv-5.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
